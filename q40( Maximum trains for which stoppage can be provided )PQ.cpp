@@ -1,4 +1,7 @@
 // CPP to design platform for maximum stoppage
+
+// https://ide.geeksforgeeks.org/UIJ2DSIAmm			-: visit this site to check and run code 
+
 #include <bits/stdc++.h>
 using namespace std;
 
